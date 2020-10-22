@@ -1,2 +1,3 @@
 this file is used to keep all the details about achistar project progression. this is first entry in project.
 after installing jenkin and linking it with git account, its time to check what poll says after a new commit in git
+and now docker is linked as well
